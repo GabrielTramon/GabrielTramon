@@ -1,16 +1,20 @@
-### Hi there 👋
+print("ola, eu sou Gabriel Tramontin!")
 
-<!--
-**BielTramon/BielTramon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😎 2006<br>
+📍 Criciuma SC<br>
+💻 Informatica 2/4<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠ferramentas com que trabalho<br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" />           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" />    
+         
+          
+          
+            
+contatos
+📞 48 99942-2691<br>
+📧 gabrieljoaquim080706@gmail.com
+
+            
+          
