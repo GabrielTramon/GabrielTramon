@@ -9,7 +9,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" />          
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" />
-            <img src="![image](https://github.com/BielTramon/BielTramon/assets/133909024/4a6abb36-a196-4fd0-8d48-f88acc2971f4)" width="50" />
+            <i class="fa-brands fa-css3-alt"></i>
          
           
           
