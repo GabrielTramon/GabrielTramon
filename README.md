@@ -2,7 +2,7 @@
 
 🙃 2006<br>
 📍 Criciuma SC<br>
-💻 Informatica 3/4<br>
+💻 Informatica 4/4<br>
 
 🛠ferramentas com que já trabalhei!
 <div style="display: inline_block">
