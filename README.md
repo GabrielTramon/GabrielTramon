@@ -26,8 +26,10 @@
   <a href="https://br.linkedin.com/in/gabriel-tramontin-b41b90208?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BielTramon&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BielTramon&layout=donut)
+<br><a href="https://github.com/BielTramon"><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielTramon&layout=compact&theme=midnight-purple&show_icons=true" /><br>
+<br>![BielTramon GitHub stats](https://github-readme-stats.vercel.app/api?username=BielTramon&theme=midnight-purple&show_icons=true)
+<br>
+
 
           
             
