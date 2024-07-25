@@ -4,9 +4,6 @@
 📍 Criciuma SC<br>
 💻 Curso Técnico em Informática 4/4<br>
 
-<br><a href="https://github.com/BielTramon"><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielTramon&layout=compact&theme=midnight-purple&show_icons=true" />
-![BielTramon GitHub stats](https://github-readme-stats.vercel.app/api?username=BielTramon&theme=midnight-purple&show_icons=true)
-<br>
 ## 🛠Ferramentas com que já trabalhei!
 <div style="display: inline_block">
   <img align="center" alt="Biel-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,11 +24,16 @@
 
 ## 📞 Contato
 <div> 
+  <br>
   <a href="https://www.instagram.com/gabriel_tramontin_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrieljoaquim080706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/gabriel-tramontin-b41b90208?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+<br><a href="https://github.com/BielTramon"><img  height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielTramon&layout=compact&theme=midnight-purple&show_icons=true" />
+![BielTramon GitHub stats](https://github-readme-stats.vercel.app/api?username=BielTramon&theme=midnight-purple&show_icons=true)
+<br>
 
           
             
