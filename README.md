@@ -31,8 +31,8 @@
 </div>
 
 ##
-<br><a href="https://github.com/BielTramon"><img  height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielTramon&layout=compact&theme=midnight-purple&show_icons=true" />
-![BielTramon GitHub stats](https://github-readme-stats.vercel.app/api?username=BielTramon&theme=midnight-purple&show_icons=true)
+<br><a href="https://github.com/GabrielTramon"><img  height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTramon&layout=compact&theme=midnight-purple&show_icons=true" />
+![GabrielTramon GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTramon&theme=midnight-purple&show_icons=true)
 <br>
 
           
